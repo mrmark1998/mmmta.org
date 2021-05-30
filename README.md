@@ -1,4 +1,4 @@
-# midmichiganmta
+# midmichiganmta.org
 
 Mid-Michigan Music Teachers Association
 
