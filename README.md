@@ -1,8 +1,8 @@
 # midmichiganmta
 
-Mid-Michigan MTA
+Mid-Michigan Music Teachers Association
 
-A website I heavily modified using Wordpress plug-ins and advanced CSS, JS, and HTML code.  Much upgraded from the previous version back in 2018.  Please follow the link to view the website:
+A website I heavily modified using advanced CSS, JS, and HTML code.  Much upgraded from the previous version back in 2018.  Please follow the link to view the website:
 
   https://www.midmichiganmta.org/
 
