@@ -1,6 +1,6 @@
 # midmichiganmta.org
 
-Mid-Michigan Music Teachers Association
+Mid-Michigan Music Teachers Association webpage
 
 A website I heavily modified using advanced CSS, JS, and HTML code.  Much upgraded from the previous version back in 2018.  Please follow the link to view the website:
 
