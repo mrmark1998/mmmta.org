@@ -1,10 +1,10 @@
 # midmichiganmta.org
 
-Mid-Michigan Music Teachers Association webpage
+**Mid-Michigan Music Teachers Association Official Website**
 
-A website I heavily modified using advanced CSS, JS, and HTML code.  Much upgraded from the previous version back in 2018.  Please follow the link to view the website:
+A website I created in 2020 for the official music teachers assocation in the mid-Michigan area.  I created it from scratch using Wordpress and Bluehost.  Later, I heavily modified using advanced CSS, JS, and HTML code.  Continuing work included creating user profiles, blogs, event lists, and helping members with technical issues.  This was much upgraded from the previous version back in 2018.  Please follow the link to view the website:
 
-  https://www.midmichiganmta.org/
+**  https://www.midmichiganmta.org/**
 
 Short about regarding the club:
 
