@@ -5,7 +5,6 @@
 A website I created in 2020 for the official music teachers assocation in the mid-Michigan area.  I created it from scratch using Wordpress and Bluehost.  Later, I heavily modified using advanced CSS, JS, and HTML code.  Continuing work included creating user profiles, blogs, event lists, and helping members with technical issues.  This was much upgraded from the previous version back in 2018.  Please follow the link to view the website:
 
 <li>https://www.midmichiganmta.org/</li>
-
 <br><br>
 
 Short profile about the club:
