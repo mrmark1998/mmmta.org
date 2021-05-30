@@ -6,7 +6,7 @@ A website I created in 2020 for the official music teachers assocation in the mi
 
 <li>https://www.midmichiganmta.org/</li>
 
-
+<br><br>
 
 Short profile about the club:
 
